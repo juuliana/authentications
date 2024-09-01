@@ -1,0 +1,16 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 6rem;
+  height: 3rem;
+  background: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.item:hover {
+  opacity: 1;
+  background: #ffffff90;
+  transition: 1s;
+}
